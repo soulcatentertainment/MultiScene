@@ -1,0 +1,15 @@
+{
+    "name": "com.soulcatentertainment.multiscene",
+    "displayName": "MultiScene",
+    "version": "1.5.0",
+    "unity": "2018.4",
+    "description": "MultiScene is a Unity editor extension that allows loading multi scenes on runtime.",
+    "license": "MIT",
+    "keywords": [
+        "Networking",
+        "Utils",
+        "Editor",
+        "Extensions"
+    ],
+    "dependencies": {}
+}
