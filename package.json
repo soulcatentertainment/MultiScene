@@ -6,7 +6,6 @@
     "description": "MultiScene is a Unity editor extension that allows loading multi scenes on runtime.",
     "license": "MIT",
     "keywords": [
-        "Networking",
         "Utils",
         "Editor",
         "Extensions"
